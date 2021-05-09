@@ -1,0 +1,3 @@
+[submodule "solidity-template"]
+	path = solidity-template
+	url = git@github.com:chen8160/solidity-template.git
